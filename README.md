@@ -1,8 +1,5 @@
 ​https://verifier.ton.org/EQDxZfh_28X9-1J0n7Vp5xpGDaIV_tODdLF3JC5Dk81nTDy5
 
-README.md dosyanızın görseline (1000010188.jpg) baktığımda, metnin biraz birbirine girmiş olduğunu ve okunabilirliğinin artırılabileceğini görüyorum. GitHub sayfanızın daha profesyonel görünmesi için bu dosyayı şu şekilde düzenlemenizi öneririm:
-### Önerilen README.md İçeriği
-Aşağıdaki metni kopyalayıp GitHub'daki README.md dosyanıza yapıştırarak çok daha okunaklı ve profesyonel bir yapıya kavuşturabilirsiniz:
 # Cyber Cat ($CCAT)
 Cyber Cat ($CCAT) is a community-driven, transparent, and open-source Jetton project built on **TON (The Open Network)**.
 ## 🛡️ Technical Transparency and Security
